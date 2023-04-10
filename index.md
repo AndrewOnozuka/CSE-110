@@ -19,6 +19,8 @@ def welcome_to_my_page():
 
 This site was built using [GitHub Pages](https://pages.github.com/). The previous line was retrieved from GitHub's [Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) section!
 
+[Go back to top](#introduction)
+
 Here's the [README](README.md) file for my CSE 110 repository.
 
 Here are some classes in UCSD's CSE department that I've already taken:
@@ -41,3 +43,9 @@ To Do List:
 - [x] Finish CSE 105 HW for Week 1
 - [x] Finish CSE 110 Lab for Week 1
 - [ ] Watch missed lectures for COGS 1
+
+Thanks for visiting my user page!
+Here are some photos I took while I was in Japan this past summer. Have a great day!
+
+![kinkakuji](photos/AB54F3D9-D92B-4879-9236-4784A16D82D9_1_105_c.jpeg)
+![himejicastle](photos/652119F4-74AE-41E3-8580-DF6BE63FF5E6_1_105_c.jpeg)
