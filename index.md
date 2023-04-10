@@ -40,9 +40,9 @@ Here are some of my favorite keyboard sizes:
 3. 1800
 
 To Do List:
-- [x] Finish CSE 105 HW for Week 1
-- [x] Finish CSE 110 Lab for Week 1
-- [ ] Watch missed lectures for COGS 1
+- [x]  Finish CSE 105 HW for Week 1
+- [x]  Finish CSE 110 Lab for Week 1
+- [ ]  Watch missed lectures for COGS 1
 
 Thanks for visiting my user page!
 Here are some photos I took while I was in Japan this past summer. Have a great day!
