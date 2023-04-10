@@ -8,7 +8,8 @@ Hello and welcome to my user page! My name is *Andrew Onozuka* and I am a second
 ### Fun Facts!
 
 Here is one of my favorite quotes!
->If I am worth anything later, I am worth something now. For wheat is wheat, even if people think it is grass in the beginning. -Vincent Van Gogh
+>If I am worth anything later, I am worth something now. For wheat is wheat, even if people think it is grass in the beginning.
+-Vincent Van Gogh
 
 Here is some `python` code that outputs a welcome for visiting my page!
 ```
@@ -17,9 +18,6 @@ def welcome_to_my_page():
 ```
 
 This site was built using [GitHub Pages](https://pages.github.com/). The previous line was retrieved from GitHub's [Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) section!
-
-Section links
-Relative links (Link to another .md file or an image in your repo. If linking to an image, encode it as a regular link rather than an image.)
 
 Here's the [README](README.md) file for my CSE 110 repository.
 
@@ -43,5 +41,3 @@ To Do List:
 - [x] Finish CSE 105 HW for Week 1
 - [x] Finish CSE 110 Lab for Week 1
 - [ ] Watch missed lectures for COGS 1
- 
-Section links
