@@ -1,2 +1,2 @@
 # Andrew's User Page
-https://andrewonozuka.github.io/CSE-110-Lab-1/
+https://andrewonozuka.github.io/CSE-110/
